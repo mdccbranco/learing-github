@@ -1,0 +1,6 @@
+This doc should be to master and, after that, to the branch A.
+
+Steps to do that: 
+- Push to remote branchB.
+- Make a pull request to master.
+- Make a merge with a master.
