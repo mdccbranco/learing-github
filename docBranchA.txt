@@ -1,2 +1,1 @@
 document create in the branch A.
-Merge with master - ok
