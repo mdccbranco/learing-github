@@ -4,3 +4,5 @@ Steps to do that:
 - Push to remote branchB.
 - Make a pull request to master.
 - Make a merge with a master.
+- Make a pull in local master.
+- Change branch and make a pull with master local.
